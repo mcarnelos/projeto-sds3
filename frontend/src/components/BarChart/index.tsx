@@ -44,7 +44,7 @@ const BarChart = () => {
                     },
                     series: [
                         {
-                            name: "% Success",
+                            name: "% success",
                             data: mySeries
                         }
                     ]
