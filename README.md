@@ -1,6 +1,3 @@
-# projeto-sds3
-Projeto desenvolvido durante o evento Semana Spring React da DevSuperior com o prof. Nelio alves. Utilizando Spring no backend e React no frontend.
-
 # DSVendas 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/mcarnelos/projeto-sds3/blob/master/LICENSE) 
 
@@ -13,12 +10,12 @@ DSVendas é uma aplicação full stack web construída durante a 3ª edição da
 A aplicação consiste em um dashboard de controle de vendas com gráficos e busca agrupada no back end.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/mcarnelos/assets/blob/master/sds3/dsvendas_tela1.jpg)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/mcarnelos/assets/blob/master/sds3/dsvendas_tela2.jpg)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/mcarnelos/assets/blob/master/sds3/sds3-mc.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -29,9 +26,6 @@ A aplicação consiste em um dashboard de controle de vendas com gráficos e bus
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -44,7 +38,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/mcarnelos/projeto-sds3
 
 # entrar na pasta do projeto back end
 cd backend
@@ -58,7 +52,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/mcarnelos/projeto-sds3
 
 # entrar na pasta do projeto front end web
 cd front-web
@@ -72,6 +66,6 @@ yarn start
 
 # Autor
 
-Murilo Cordeiro Carnelós
+Murilo Carnelós
 
 https://www.linkedin.com/in/murilo-carnel%C3%B3s/
